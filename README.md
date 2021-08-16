@@ -1,4 +1,4 @@
-## About Me.
+## About Me
 
 I am a <strong>Self-motivated</strong>, <strong>Self-disciplined</strong>, <strong>Self-led</strong> full stack developer with more than 7 years of experience.
 <br>

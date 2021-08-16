@@ -4,7 +4,7 @@ I am a <strong>Self-motivated</strong>, <strong>Self-disciplined</strong>, <stro
 <br>
 I am always happy with my work and always deliver productive and excellent results because I have the rare sill to make stuff done
 
-## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
+## My Skill Set
 
 <table>
   <tr>

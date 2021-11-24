@@ -6,7 +6,6 @@ I am a <strong>Self-motivated</strong>, <strong>Self-disciplined</strong>, <stro
 <strong>"Do you enjoy having high ambitions and setting goals for yourself?"</strong>
 <br>
 Yes. I do, Without any ambitions, nobody will make a success!
-
 <br>
 <strong>"And do you then also enjoy putting in the hard work to realize them?"</strong>
 <br>

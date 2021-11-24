@@ -2,7 +2,17 @@
 
 I am a <strong>Self-motivated</strong>, <strong>Self-disciplined</strong>, <strong>Self-led</strong> full stack developer with more than 7 years of experience.
 <br>
-I am always happy with my work and always deliver productive and excellent results because I have the rare sill to make stuff done
+
+<strong>"Does our culture of high performance and of excellence fit in with the way you usually work?"</strong>
+Yes. it does, I really love your values and ideas.
+<br>
+
+<strong>"Do you enjoy having high ambitions and setting goals for yourself?"</strong>
+Yes. I do, Without any ambitions, nobody will make a success!
+
+<br>
+<strong>"And do you then also enjoy putting in the hard work to realize them?"</strong>
+I think, To make a success, I have to keep putting in the hard work.
 
 ## My Skill Set
 
